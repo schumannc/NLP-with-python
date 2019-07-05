@@ -1,2 +1,3 @@
-.ipynb_checkpoints/*
-data/*
+*
+!Sentiment_Analysis_Fasttext.ipynb
+!.gitignore
